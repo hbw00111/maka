@@ -1,1 +1,1 @@
-file:///workspace/maka/.push-authority.tsx
+PLACEHOLDER_LOAD_FROM_DISK
